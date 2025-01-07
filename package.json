@@ -15,6 +15,7 @@
     "@mui/icons-material": "^6.3.1",
     "@mui/material": "^6.3.1",
     "@mui/styled-engine": "^6.3.1",
+    "@mui/styles": "^6.3.1",
     "@solana/web3.js": "^1.98.0",
     "base-x": "^5.0.0",
     "bs58": "^6.0.0",
